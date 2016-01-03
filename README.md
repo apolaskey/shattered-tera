@@ -5,6 +5,8 @@ Shattered Terra
 
 [![Build Status](https://travis-ci.org/apolaskey/shattered-terra.svg)](https://travis-ci.org/apolaskey/shattered-terra?branch=master)
 
+Connect to [ws://glacial-meadow-4285.herokuapp.com/game] to play!
+
 Table of Contents
 -----------------
 1. [Requirements](#requirements)
