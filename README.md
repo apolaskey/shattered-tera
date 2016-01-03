@@ -1,6 +1,8 @@
 Shattered Terra
 =======================
 
+[![Join the chat at https://gitter.im/apolaskey/shattered-terra](https://badges.gitter.im/apolaskey/shattered-terra.svg)](https://gitter.im/apolaskey/shattered-terra?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 [![Build Status](https://travis-ci.org/apolaskey/shattered-terra.svg)](https://travis-ci.org/apolaskey/shattered-terra?branch=master)
 
 Table of Contents
