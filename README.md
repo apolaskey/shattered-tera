@@ -3,11 +3,9 @@ Shattered Terra
 
 [![Join the chat at https://gitter.im/apolaskey/shattered-terra](https://badges.gitter.im/apolaskey/shattered-terra.svg)](https://gitter.im/apolaskey/shattered-terra?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 [![Build Status](https://travis-ci.org/apolaskey/shattered-terra.svg)](https://travis-ci.org/apolaskey/shattered-terra?branch=master)
-[![Heroku](https://heroku-badge.herokuapp.com/?app=glacial-meadow-4285)]
+![Heroku](https://heroku-badge.herokuapp.com/?app=glacial-meadow-4285)
 
-https://heroku-badge.herokuapp.com/?app=glacial-meadow-4285
-
-Connect to [ws://glacial-meadow-4285.herokuapp.com/game] to play!
+Connect to [ws://glacial-meadow-4285.herokuapp.com/game](ws://glacial-meadow-4285.herokuapp.com/game) to play!
 
 Table of Contents
 -----------------
