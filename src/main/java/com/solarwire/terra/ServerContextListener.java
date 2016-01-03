@@ -1,5 +1,8 @@
 package com.solarwire.terra;
 
+import org.slf4j.Logger;
+import org.slf4j.LoggerFactory;
+
 import javax.servlet.ServletContextEvent;
 import javax.servlet.ServletContextListener;
 
@@ -8,8 +11,10 @@ import javax.servlet.ServletContextListener;
  */
 public class ServerContextListener implements ServletContextListener {
 
-    public void contextInitialized(ServletContextEvent servletContextEvent) {
+    private static final Logger logger = LoggerFactory.getLogger(ServerContextListener.class);
 
+    public void contextInitialized(ServletContextEvent servletContextEvent) {
+        logger.info("Server started!");
     }
 
     public void contextDestroyed(ServletContextEvent servletContextEvent) {
