@@ -1,3 +1,6 @@
+### DEPRECECATED
+This project was at a time a goal among friends to get created; keeping around because it does show some concepts around setting up Hibernate and interacting with Heroku along with just general Maven setup and working with sockets.
+
 Shattered Terra
 =======================
 
